@@ -1,0 +1,10 @@
+WORKSHOP HANDOFF TEMPLATE | SYNTHETIC TRAINING MATERIAL
+
+Draft for employee review
+Case ID: [one case ID]
+Review status: [Ready for staff review or Follow-up required]
+Documents received: [list item IDs, including any present item with a discrepancy]
+Gaps or discrepancies: [item ID, status, observed evidence, action needed. State None identified if applicable.]
+Source references: [checklist item IDs and case evidence IDs that support each finding]
+Proposed follow-up owner: [role from the workshop checklist]
+Next action for staff: [one practical action. Keep the brief as a draft for staff review.]

@@ -1,0 +1,18 @@
+WORKSHOP DOCUMENT CHECKLIST | SYNTHETIC TRAINING MATERIAL
+This is a fictional checklist for the class. It does not represent Krungsri policy.
+
+D01 | Application intake note | Case ID, business name, request purpose and customer-reported payment terms.
+D02 | Business profile | Business name and business activity. Compare the name against D01.
+D03 | Cash flow summary | Case ID and reporting period. An inventory entry must identify the actual document received.
+D04 | Receivables summary | Case ID and payment terms. Compare the terms against D01. Record a payment terms conflict on D04 and cite both records.
+
+Status vocabulary
+- Received: listed in the case inventory and consistent with the fields checked here.
+- Missing: required item is absent or explicitly not received.
+- Discrepancy: item is present but the case evidence conflicts. Record both values and their references.
+- Needs verification: item or required detail cannot be confirmed from the supplied records.
+
+Workshop routing
+- Ready for staff review: D01–D04 are Received. Proposed owner: Credit Operations Reviewer.
+- Follow-up required: at least one Missing, Discrepancy, or Needs verification item. Proposed owner: Relationship Manager, who confirms or collects the evidence before handoff.
+- Credit decision request: refer the request to the authorized Credit Approver. Document completeness is separate from lending decisions.

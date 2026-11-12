@@ -1,0 +1,17 @@
+SYNTHETIC WORKSHOP EMAIL THREAD
+Prepared from the fictional Branch Operations source report used in this workshop.
+
+Message 1
+From role: Contact Center Team
+Subject: Branch Operations follow-up — document checklist
+The sample report records complaints about incomplete supporting documents increasing by 18% from the previous period. Please help prepare a document checklist before an application is submitted.
+
+Message 2
+From role: Credit Operations Team
+Subject: Re: Branch Operations follow-up — document checklist
+The sample report records median loan approval turnaround time rising from 4.2 to 5.1 days and 28 pending applications. Our proposed draft action is to prepare the checklist within two weeks. The team should confirm the final owner and the exact calendar due date.
+
+Message 3
+From role: Branch Operations Coordinator
+Subject: Re: Branch Operations follow-up — document checklist
+Please summarize the problem and draft our next steps for review. Identify any owner or calendar date that still needs confirmation.

@@ -1,0 +1,642 @@
+{
+  "d1-e01-opt": {
+    "src": "/images/practices/d1-e01-opt-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e01-opt-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e01-opt-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee gathers evidence of how often a work problem occurs"
+  },
+  "d1-e01-p01": {
+    "src": "/images/practices/d1-e01-p01-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e01-p01-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e01-p01-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee explores how an assistant helps with work"
+  },
+  "d1-e01-p02": {
+    "src": "/images/practices/d1-e01-p02-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e01-p02-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e01-p02-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "Two office colleagues arrange a small handful of blank yellow and slate sticky notes into three separate clusters on a wall"
+  },
+  "d1-e01-p03": {
+    "src": "/images/practices/d1-e01-p03-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e01-p03-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e01-p03-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "A small team prioritizes one work problem"
+  },
+  "d1-e02-opt": {
+    "src": "/images/practices/d1-e02-opt-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e02-opt-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e02-opt-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "Two colleagues return an incomplete document to the previous owner for clarification"
+  },
+  "d1-e02-p01": {
+    "src": "/images/practices/d1-e02-p01-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e02-p01-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e02-p01-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "Two colleagues map their current process by placing four blank cards in a simple horizontal row"
+  },
+  "d1-e02-p02": {
+    "src": "/images/practices/d1-e02-p02-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e02-p02-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e02-p02-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee presents an improved workflow board to one colleague, pointing at a short row of blank cards with one distinct human-review marker"
+  },
+  "d1-e03-opt": {
+    "src": "/images/practices/d1-e03-opt-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e03-opt-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e03-opt-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee adapts the same plain message card for two audiences"
+  },
+  "d1-e03-p01": {
+    "src": "/images/practices/d1-e03-p01-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e03-p01-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e03-p01-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee organizes two plain document files into a golden folder beside an open laptop with a blank screen, preparing a tidy workspace"
+  },
+  "d1-e03-p02": {
+    "src": "/images/practices/d1-e03-p02-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e03-p02-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e03-p02-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "A professional compares two abstract message cards, one sparse and one with grouped example marks"
+  },
+  "d1-e03-p03": {
+    "src": "/images/practices/d1-e03-p03-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e03-p03-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e03-p03-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee revises a draft message on paper, then checks a simple calculation with a small blank calculator"
+  },
+  "d1-e04-opt": {
+    "src": "/images/practices/d1-e04-opt-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e04-opt-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e04-opt-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee studies an open source document and holds an empty query card beside a separate amber follow-up note, recognizing that some information is missing"
+  },
+  "d1-e04-p01": {
+    "src": "/images/practices/d1-e04-p01-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e04-p01-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e04-p01-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee compares a thick source document with a shorter summary page, holding a magnifying glass over the source"
+  },
+  "d1-e04-p02": {
+    "src": "/images/practices/d1-e04-p02-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e04-p02-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e04-p02-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee transforms a loosely arranged group of abstract summary bars into a neat two-column paper table"
+  },
+  "d1-e05-opt": {
+    "src": "/images/practices/d1-e05-opt-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e05-opt-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e05-opt-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee compares two abstract chart cards with the same bars but different color intensity"
+  },
+  "d1-e05-p01": {
+    "src": "/images/practices/d1-e05-p01-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e05-p01-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e05-p01-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An analyst checks a few simple revenue bars on a paper sheet against a source grid with a magnifier"
+  },
+  "d1-e05-p02": {
+    "src": "/images/practices/d1-e05-p02-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e05-p02-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e05-p02-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee creates a clear column comparison chart from a small paper data grid, arranging five simple golden and slate bars on a presentation card"
+  },
+  "d1-e05-p03": {
+    "src": "/images/practices/d1-e05-p03-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d1-e05-p03-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d1-e05-p03-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee verifies a spreadsheet calculation using a small blank calculator and a paper grid, tracing one cell to its supporting column with a pencil"
+  },
+  "d2-e01-opt": {
+    "src": "/images/practices/d2-e01-opt-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e01-opt-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e01-opt-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "A manager raises a plain question card while an employee checks an open reference document to prepare an answer"
+  },
+  "d2-e01-p01": {
+    "src": "/images/practices/d2-e01-p01-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e01-p01-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e01-p01-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee summarizes a small email thread represented by three overlapping envelope cards into one short note"
+  },
+  "d2-e01-p02": {
+    "src": "/images/practices/d2-e01-p02-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e01-p02-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e01-p02-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee drafts a polite follow-up reply"
+  },
+  "d2-e01-p03": {
+    "src": "/images/practices/d2-e01-p03-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e01-p03-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e01-p03-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "Two colleagues review a meeting record beside three simple action cards, one holding a small owner marker and one a blank calendar tab"
+  },
+  "d2-e01-p04": {
+    "src": "/images/practices/d2-e01-p04-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e01-p04-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e01-p04-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee prepares a presentation from a source document"
+  },
+  "d2-e02-opt": {
+    "src": "/images/practices/d2-e02-opt-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e02-opt-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e02-opt-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee compares two plain research summaries side by side, checking a reference document for differences in support"
+  },
+  "d2-e02-p01": {
+    "src": "/images/practices/d2-e02-p01-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e02-p01-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e02-p01-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee selects a research specialist represented by a plain magnifier card from a small tray of three distinct tool cards"
+  },
+  "d2-e02-p02": {
+    "src": "/images/practices/d2-e02-p02-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e02-p02-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e02-p02-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "A researcher compares three distinct source documents laid around one central memo page"
+  },
+  "d2-e02-p03": {
+    "src": "/images/practices/d2-e02-p03-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e02-p03-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e02-p03-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee follows a small paper reference tab from a memo back to its open source document, checking the evidence with a magnifier"
+  },
+  "d2-e03-opt": {
+    "src": "/images/practices/d2-e03-opt-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e03-opt-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e03-opt-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An analyst compares two ways to inspect the same small paper data grid"
+  },
+  "d2-e03-p01": {
+    "src": "/images/practices/d2-e03-p01-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e03-p01-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e03-p01-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An analyst inspects the structure of a paper data grid before analysis, using a magnifier on a visibly empty cell and an amber marker on an incomplete row"
+  },
+  "d2-e03-p02": {
+    "src": "/images/practices/d2-e03-p02-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e03-p02-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e03-p02-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An analyst considers a relationship between two abstract data series on separate paper cards, with an open notebook for a hypothesis"
+  },
+  "d2-e03-p03": {
+    "src": "/images/practices/d2-e03-p03-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e03-p03-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e03-p03-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee checks a short findings note against a workbook grid and a blank calculator, pointing to a supporting cell range with a pencil"
+  },
+  "d2-e04-opt": {
+    "src": "/images/practices/d2-e04-opt-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e04-opt-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e04-opt-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee searches for an absent case folder in a small tray, then offers an empty clarification card to a colleague"
+  },
+  "d2-e04-p01": {
+    "src": "/images/practices/d2-e04-p01-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e04-p01-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e04-p01-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "A relationship manager hands a slim case folder to an operations colleague across a desk"
+  },
+  "d2-e04-p02": {
+    "src": "/images/practices/d2-e04-p02-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e04-p02-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e04-p02-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee assembles a small reusable assistant workspace by placing a checklist sheet, case folder and handoff template beside a simple abstract assistant-shaped geometric light"
+  },
+  "d2-e04-p03": {
+    "src": "/images/practices/d2-e04-p03-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e04-p03-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e04-p03-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee compares slim case folders against a clipboard with a few empty boxes, recording evidence in a compact paper grid on the desk"
+  },
+  "d2-e04-p04": {
+    "src": "/images/practices/d2-e04-p04-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e04-p04-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e04-p04-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee saves a baseline handoff note inside a plain folder, with the source case notes still open for comparison"
+  },
+  "d2-e05-opt": {
+    "src": "/images/practices/d2-e05-opt-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e05-opt-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e05-opt-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee replaces an older case note in a small source folder with a revised note, then prepares a fresh review on a clean paper card"
+  },
+  "d2-e05-p01": {
+    "src": "/images/practices/d2-e05-p01-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e05-p01-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e05-p01-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee writes a reusable work procedure on a short paper checklist, then places that procedure in a small plain reusable folder beside the assistant's documents"
+  },
+  "d2-e05-p02": {
+    "src": "/images/practices/d2-e05-p02-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e05-p02-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e05-p02-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "An employee tests a reusable procedure with three separate plain case folders, one complete stack, one with an amber unresolved tab, one set aside for a human reviewer"
+  },
+  "d2-e05-p03": {
+    "src": "/images/practices/d2-e05-p03-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-e05-p03-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-e05-p03-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "Two colleagues peer-review a handoff brief against the same source folder and evidence grid"
+  }
+}

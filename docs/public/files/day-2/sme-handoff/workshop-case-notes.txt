@@ -1,0 +1,14 @@
+WORKSHOP CASE NOTES | SYNTHETIC TRAINING MATERIAL
+The organization, case IDs and details below are fictional. Both cases concern a working capital request from Orchid Axle Components, an auto parts supplier. Treat each case as a separate packet.
+
+CASE SME-101
+SME-101/D01 | Received | Orchid Axle Components requests working capital for parts inventory. Customer-reported payment terms: 60 days.
+SME-101/D02 | Received | Orchid Axle Components manufactures automotive components.
+SME-101/D03 | Received | Cash flow summary for case SME-101, period July–September 2026.
+SME-101/D04 | Received | Receivables summary for case SME-101. Payment terms: 60 days.
+
+CASE SME-102
+SME-102/D01 | Received | Orchid Axle Components requests working capital for parts inventory. Customer-reported payment terms: 60 days.
+SME-102/D02 | Received | Orchid Axle Components manufactures automotive components.
+SME-102/D03 | Not received | Relationship manager has requested the cash flow summary. No file is recorded in this packet.
+SME-102/D04 | Received | Receivables summary for case SME-102. Payment terms: 90 days.

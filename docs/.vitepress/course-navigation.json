@@ -1,0 +1,282 @@
+[
+  {
+    "day": 1,
+    "id": "d1-e01",
+    "text": "Discover Work Friction",
+    "route": "/exercises/day-1/01-discover-work-friction",
+    "practices": [
+      {
+        "id": "d1-e01-p01",
+        "text": "Explore AI and agents",
+        "anchor": "practice-1--explore-ai-and-agents--20-นาที"
+      },
+      {
+        "id": "d1-e01-p02",
+        "text": "Map daily work",
+        "anchor": "practice-2--map-daily-work--35-นาที"
+      },
+      {
+        "id": "d1-e01-p03",
+        "text": "Prioritize one opportunity",
+        "anchor": "practice-3--prioritize-one-opportunity--35-นาที"
+      },
+      {
+        "id": "d1-e01-opt",
+        "text": "กิจกรรมทางเลือก",
+        "anchor": "optional-extension"
+      }
+    ]
+  },
+  {
+    "day": 1,
+    "id": "d1-e02",
+    "text": "AS-IS / TO-BE",
+    "route": "/exercises/day-1/02-as-is-to-be",
+    "practices": [
+      {
+        "id": "d1-e02-p01",
+        "text": "Map the AS-IS workflow",
+        "anchor": "practice-1--map-the-as-is-workflow--35-นาที"
+      },
+      {
+        "id": "d1-e02-p02",
+        "text": "Design and pitch the TO-BE idea",
+        "anchor": "practice-2--design-and-pitch-the-to-be-idea--40-นาที"
+      },
+      {
+        "id": "d1-e02-opt",
+        "text": "กิจกรรมทางเลือก",
+        "anchor": "optional-extension"
+      }
+    ]
+  },
+  {
+    "day": 1,
+    "id": "d1-e03",
+    "text": "Copilot Chat",
+    "route": "/exercises/day-1/03-copilot-chat",
+    "practices": [
+      {
+        "id": "d1-e03-p01",
+        "text": "Prepare account and files",
+        "anchor": "practice-1--prepare-account-and-files--15-นาที"
+      },
+      {
+        "id": "d1-e03-p02",
+        "text": "Compare a first prompt with examples",
+        "anchor": "practice-2--compare-a-first-prompt-with-examples--20-นาที"
+      },
+      {
+        "id": "d1-e03-p03",
+        "text": "Refine and verify a result",
+        "anchor": "practice-3--refine-and-verify-a-result--25-นาที"
+      },
+      {
+        "id": "d1-e03-opt",
+        "text": "กิจกรรมทางเลือก",
+        "anchor": "optional-extension"
+      }
+    ]
+  },
+  {
+    "day": 1,
+    "id": "d1-e04",
+    "text": "Copilot in Word",
+    "route": "/exercises/day-1/04-word",
+    "practices": [
+      {
+        "id": "d1-e04-p01",
+        "text": "Summarize the document",
+        "anchor": "practice-1--summarize-the-document--15-นาที"
+      },
+      {
+        "id": "d1-e04-p02",
+        "text": "Structure the summary as a table",
+        "anchor": "practice-2--structure-the-summary-as-a-table--15-นาที"
+      },
+      {
+        "id": "d1-e04-opt",
+        "text": "กิจกรรมทางเลือก",
+        "anchor": "optional-extension"
+      }
+    ]
+  },
+  {
+    "day": 1,
+    "id": "d1-e05",
+    "text": "Copilot in Excel",
+    "route": "/exercises/day-1/05-excel",
+    "practices": [
+      {
+        "id": "d1-e05-p01",
+        "text": "Find and verify insights",
+        "anchor": "practice-1--find-and-verify-insights--25-นาที"
+      },
+      {
+        "id": "d1-e05-p02",
+        "text": "Create a comparison chart",
+        "anchor": "practice-2--create-a-comparison-chart--20-นาที"
+      },
+      {
+        "id": "d1-e05-p03",
+        "text": "Add and verify formulas",
+        "anchor": "practice-3--add-and-verify-formulas--30-นาที"
+      },
+      {
+        "id": "d1-e05-opt",
+        "text": "กิจกรรมทางเลือก",
+        "anchor": "optional-extension"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "id": "d2-e01",
+    "text": "Communication and Presentation",
+    "route": "/exercises/day-2/01-communication-and-presentation",
+    "practices": [
+      {
+        "id": "d2-e01-p01",
+        "text": "สรุป email thread",
+        "anchor": "practice-1--สรุป-email-thread--10-นาที"
+      },
+      {
+        "id": "d2-e01-p02",
+        "text": "ร่างข้อความตอบกลับใน Outlook",
+        "anchor": "practice-2--ร่างข้อความตอบกลับใน-outlook--15-นาที"
+      },
+      {
+        "id": "d2-e01-p03",
+        "text": "สรุป meeting เป็น Action items",
+        "anchor": "practice-3--สรุป-meeting-เป็น-action-items--25-นาที"
+      },
+      {
+        "id": "d2-e01-p04",
+        "text": "สร้างและตรวจ Presentation",
+        "anchor": "practice-4--สร้างและตรวจ-presentation--30-นาที"
+      },
+      {
+        "id": "d2-e01-opt",
+        "text": "กิจกรรมทางเลือก",
+        "anchor": "optional-extension"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "id": "d2-e02",
+    "text": "Researcher",
+    "route": "/exercises/day-2/02-researcher",
+    "practices": [
+      {
+        "id": "d2-e02-p01",
+        "text": "ค้นหา Researcher ใน Agent Store",
+        "anchor": "practice-1--ค้นหา-researcher-ใน-agent-store--5-นาที"
+      },
+      {
+        "id": "d2-e02-p02",
+        "text": "สร้าง Decision Memo จากหลาย source",
+        "anchor": "practice-2--สร้าง-decision-memo-จากหลาย-source--25-นาที"
+      },
+      {
+        "id": "d2-e02-p03",
+        "text": "ตรวจ citations ก่อนเสนอ pilot",
+        "anchor": "practice-3--ตรวจ-citations-ก่อนเสนอ-pilot--10-นาที"
+      },
+      {
+        "id": "d2-e02-opt",
+        "text": "กิจกรรมทางเลือก",
+        "anchor": "optional-extension"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "id": "d2-e03",
+    "text": "Analyst",
+    "route": "/exercises/day-2/03-analyst",
+    "practices": [
+      {
+        "id": "d2-e03-p01",
+        "text": "สำรวจข้อมูลก่อนวิเคราะห์",
+        "anchor": "practice-1--สำรวจข้อมูลก่อนวิเคราะห์--5-นาที"
+      },
+      {
+        "id": "d2-e03-p02",
+        "text": "ให้ Analyst วิเคราะห์สมมติฐาน",
+        "anchor": "practice-2--ให้-analyst-วิเคราะห์สมมติฐาน--15-นาที"
+      },
+      {
+        "id": "d2-e03-p03",
+        "text": "ตรวจข้อค้นพบกับ workbook",
+        "anchor": "practice-3--ตรวจข้อค้นพบกับ-workbook--15-นาที"
+      },
+      {
+        "id": "d2-e03-opt",
+        "text": "กิจกรรมทางเลือก",
+        "anchor": "optional-extension"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "id": "d2-e04",
+    "text": "SME Handoff Assistant",
+    "route": "/exercises/day-2/04-sme-handoff",
+    "practices": [
+      {
+        "id": "d2-e04-p01",
+        "text": "Map the handoff",
+        "anchor": "practice-1--map-the-handoff--15-นาที"
+      },
+      {
+        "id": "d2-e04-p02",
+        "text": "Configure the agent and its Knowledge",
+        "anchor": "practice-2--configure-the-agent-and-its-knowledge--35-นาที"
+      },
+      {
+        "id": "d2-e04-p03",
+        "text": "Record file evidence in Excel",
+        "anchor": "practice-3--record-file-evidence-in-excel--25-นาที"
+      },
+      {
+        "id": "d2-e04-p04",
+        "text": "Save a baseline handoff note",
+        "anchor": "practice-4--save-a-baseline-handoff-note--15-นาที"
+      },
+      {
+        "id": "d2-e04-opt",
+        "text": "กิจกรรมทางเลือก",
+        "anchor": "optional-extension"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "id": "d2-e05",
+    "text": "Handoff Review Skill",
+    "route": "/exercises/day-2/05-handoff-review-skill",
+    "practices": [
+      {
+        "id": "d2-e05-p01",
+        "text": "Author the Handoff Review Skill",
+        "anchor": "practice-1--author-the-handoff-review-skill--35-นาที"
+      },
+      {
+        "id": "d2-e05-p02",
+        "text": "Test and refine",
+        "anchor": "practice-2--test-and-refine--30-นาที"
+      },
+      {
+        "id": "d2-e05-p03",
+        "text": "Peer-review the draft brief",
+        "anchor": "practice-3--peer-review-the-draft-brief--10-นาที"
+      },
+      {
+        "id": "d2-e05-opt",
+        "text": "กิจกรรมทางเลือก",
+        "anchor": "optional-extension"
+      }
+    ]
+  }
+]
