@@ -16,7 +16,7 @@ next: {"text": "Copilot Chat", "link": "/exercises/day-1/03-copilot-chat.html"}
 
 ## Scenario 1 — ปรับการส่งต่องานให้เห็นเจ้าของและหลักฐาน
 
-### Practice 1 — Map the AS-IS workflow · 35 นาที
+### Practice 1 — Map the AS-IS workflow {#practice-1--map-the-as-is-workflow--35-นาที}
 
 <PracticeIllustration id="d1-e02-p01" eager />
 
@@ -43,7 +43,7 @@ next: {"text": "Copilot Chat", "link": "/exercises/day-1/03-copilot-chat.html"}
 
 แต่ละขั้นมีเจ้าของงานและอธิบายได้ว่ารับข้อมูลอะไร ส่งผลลัพธ์อะไร และคอขวดอยู่ตรงไหน
 
-### Practice 2 — Design and pitch the TO-BE idea · 40 นาที
+### Practice 2 — Design and pitch the TO-BE idea {#practice-2--design-and-pitch-the-to-be-idea--40-นาที}
 
 <PracticeIllustration id="d1-e02-p02" />
 

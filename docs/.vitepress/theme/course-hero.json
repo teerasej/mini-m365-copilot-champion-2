@@ -1,0 +1,16 @@
+{
+  "src": "/images/hero/course-home-1536.webp",
+  "srcset": [
+    {
+      "src": "/images/hero/course-home-768.webp",
+      "width": 768
+    },
+    {
+      "src": "/images/hero/course-home-1536.webp",
+      "width": 1536
+    }
+  ],
+  "width": 1774,
+  "height": 887,
+  "alt": "พนักงานร่วมกันจัด workflow ตรวจเอกสารกับกราฟ และส่งต่อแฟ้ม SME ที่มีสัญลักษณ์ชิ้นส่วนยานยนต์"
+}

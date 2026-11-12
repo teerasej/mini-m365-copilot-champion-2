@@ -16,7 +16,7 @@ next: {"text": "Copilot in Excel", "link": "/exercises/day-1/05-excel.html"}
 
 ## Scenario 1 — อ่านแนวคิดธุรกิจให้เห็นสาระสำคัญ
 
-### Practice 1 — Summarize the document · 15 นาที
+### Practice 1 — Summarize the document {#practice-1--summarize-the-document--15-นาที}
 
 <PracticeIllustration id="d1-e04-p01" eager />
 
@@ -49,7 +49,7 @@ next: {"text": "Copilot in Excel", "link": "/exercises/day-1/05-excel.html"}
 
 สรุปครบห้าหัวข้อและชี้ข้อความที่รองรับได้อย่างน้อยสองจุด
 
-### Practice 2 — Structure the summary as a table · 15 นาที
+### Practice 2 — Structure the summary as a table {#practice-2--structure-the-summary-as-a-table--15-นาที}
 
 <PracticeIllustration id="d1-e04-p02" />
 

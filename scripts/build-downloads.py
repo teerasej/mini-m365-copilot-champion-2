@@ -17,3 +17,10 @@ for day in (1, 2):
             archive.write(asset, asset.relative_to(files))
 with ZipFile(downloads / 'handoff-review-starter.zip', 'w', ZIP_DEFLATED) as archive:
     archive.write(public / 'files/day-2/sme-handoff/handoff-review-starter/SKILL.md', 'SKILL.md')
+with ZipFile(downloads / 'all-practice-files.zip', 'w', ZIP_DEFLATED) as archive:
+    for day in (1, 2):
+        files = public / f'files/day-{day}'
+        for asset in sorted(files.rglob('*')):
+            if asset.is_file() and asset.name != '.DS_Store':
+                archive.write(asset, asset.relative_to(public / 'files'))
+    archive.write(downloads / 'handoff-review-starter.zip', 'handoff-review-starter.zip')

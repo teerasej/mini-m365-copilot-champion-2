@@ -17,7 +17,7 @@ next: {"text": "SME Handoff Assistant", "link": "/exercises/day-2/04-sme-handoff
 
 ## Scenario 1 — ตรวจความสัมพันธ์ของ complaint กับระยะเวลางาน
 
-### Practice 1 — สำรวจข้อมูลก่อนวิเคราะห์ · 5 นาที
+### Practice 1 — สำรวจข้อมูลก่อนวิเคราะห์ {#practice-1--สำรวจข้อมูลก่อนวิเคราะห์--5-นาที}
 
 <PracticeIllustration id="d2-e03-p01" eager />
 
@@ -33,7 +33,7 @@ next: {"text": "SME Handoff Assistant", "link": "/exercises/day-2/04-sme-handoff
 
 คุณบอกช่วงข้อมูลและคอลัมน์ที่เกี่ยวข้องได้จาก workbook จริง
 
-### Practice 2 — ให้ Analyst วิเคราะห์สมมติฐาน · 15 นาที
+### Practice 2 — ให้ Analyst วิเคราะห์สมมติฐาน {#practice-2--ให้-analyst-วิเคราะห์สมมติฐาน--15-นาที}
 
 <PracticeIllustration id="d2-e03-p02" />
 
@@ -64,7 +64,7 @@ next: {"text": "SME Handoff Assistant", "link": "/exercises/day-2/04-sme-handoff
 
 ข้อค้นพบมีวิธีวิเคราะห์ ตารางหรือภาพประกอบ และข้อจำกัดที่เชื่อมกับข้อมูลที่แนบ [Microsoft Analyst guidance](https://support.microsoft.com/en-au/microsoft-365-copilot/get-started-with-analyst-in-microsoft-365-copilot)
 
-### Practice 3 — ตรวจข้อค้นพบกับ workbook · 15 นาที
+### Practice 3 — ตรวจข้อค้นพบกับ workbook {#practice-3--ตรวจข้อค้นพบกับ-workbook--15-นาที}
 
 <PracticeIllustration id="d2-e03-p03" />
 

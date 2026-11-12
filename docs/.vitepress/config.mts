@@ -9,7 +9,21 @@ export default defineConfig({
   cleanUrls: false,
   srcExclude: ['public/**'],
   lastUpdated: false,
-  markdown: { anchor: { slugify }, lineNumbers: false },
+  markdown: {
+    anchor: { slugify },
+    lineNumbers: false,
+    config(md) {
+      // Explicit IDs preserve published links; keep their syntax out of accessible titles.
+      md.core.ruler.before('anchor', 'clean-explicit-heading-title', state => {
+        state.tokens.forEach((token, index) => {
+          if (token.type === 'heading_open') {
+            const title = state.tokens[index + 1]
+            title.content = title.content.replace(/\s*\{#[^}]+\}\s*$/, '')
+          }
+        })
+      })
+    }
+  },
   head: [
     ['meta', { name: 'theme-color', content: '#F4C400' }],
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/mini-m365-copilot-champion-2/favicon.svg' }]

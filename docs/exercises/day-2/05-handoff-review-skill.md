@@ -20,7 +20,7 @@ next: false
 
 ## Scenario 1 — ทำให้การตรวจแฟ้มใช้ซ้ำได้
 
-### Practice 1 — Author the Handoff Review Skill · 35 นาที
+### Practice 1 — Author the Handoff Review Skill {#practice-1--author-the-handoff-review-skill--35-นาที}
 
 <PracticeIllustration id="d2-e05-p01" eager />
 
@@ -40,7 +40,7 @@ next: false
 
 **Checkpoint:** ตรวจเห็น Skill ใน `Configure` หรือเห็นขั้นตอนที่เขียนไว้ใน `Instructions` ของ Agent เดิม
 
-### Practice 2 — Test and refine · 30 นาที
+### Practice 2 — Test and refine {#practice-2--test-and-refine--30-นาที}
 
 <PracticeIllustration id="d2-e05-p02" />
 
@@ -74,7 +74,7 @@ next: false
 
 **Checkpoint:** มีผลการทดสอบครบสามกรณีและหลักฐานก่อนกับหลังของหนึ่งกรณีที่รันซ้ำ
 
-### Practice 3 — Peer-review the draft brief · 10 นาที
+### Practice 3 — Peer-review the draft brief {#practice-3--peer-review-the-draft-brief--10-นาที}
 
 <PracticeIllustration id="d2-e05-p03" />
 

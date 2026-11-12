@@ -17,7 +17,7 @@ next: {"text": "Communication and Presentation", "link": "/exercises/day-2/01-co
 
 ## Scenario 1 — ตรวจรายได้สินค้าและสื่อสารด้วยกราฟ
 
-### Practice 1 — Find and verify insights · 25 นาที
+### Practice 1 — Find and verify insights {#practice-1--find-and-verify-insights--25-นาที}
 
 <PracticeIllustration id="d1-e05-p01" eager />
 
@@ -50,7 +50,7 @@ next: {"text": "Communication and Presentation", "link": "/exercises/day-2/01-co
 
 มีรายชื่อสามอันดับและหลักฐานตัวเลขที่ตรวจด้วยตนเองอย่างน้อยสองจุด
 
-### Practice 2 — Create a comparison chart · 20 นาที
+### Practice 2 — Create a comparison chart {#practice-2--create-a-comparison-chart--20-นาที}
 
 <PracticeIllustration id="d1-e05-p02" />
 
@@ -72,7 +72,7 @@ next: {"text": "Communication and Presentation", "link": "/exercises/day-2/01-co
 
 กราฟมีห้าสินค้าและใช้รายได้รวมที่ตรวจเทียบได้จากข้อมูลต้นทาง
 
-### Practice 3 — Add and verify formulas · 30 นาที
+### Practice 3 — Add and verify formulas {#practice-3--add-and-verify-formulas--30-นาที}
 
 <PracticeIllustration id="d1-e05-p03" />
 

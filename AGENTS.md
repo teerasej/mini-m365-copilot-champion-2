@@ -17,7 +17,7 @@ Mini Microsoft 365 Copilot Champion 2 is a two-day learner course for Krungsri e
 
 ## Deliverables
 
-- A VitePress learner site with root and day navigation, ten exercises, required files, screenshots, forty practice illustrations, two day ZIPs, and a skill starter ZIP.
+- A VitePress learner site with root and day navigation, ten exercises, required files, screenshots, forty practice illustrations, a homepage hero, two day ZIPs, a skill starter ZIP, and an all-files ZIP.
 - Definition of done includes schedule, source, link, ZIP, artifact handoff, and public-content checks, plus Markdown preview.
 
 ## Workspace map
@@ -40,6 +40,8 @@ Mini Microsoft 365 Copilot Champion 2 is a two-day learner course for Krungsri e
 - Preserve source notices. Use the approved Teerasej copyright and three contact links at the bottom of learner pages.
 - Use the shared footer in the VitePress Layout for all learner pages. Keep repository/edit controls hidden.
 - Each core practice and optional extension has one illustration immediately below its real text heading. Keep its anchor and content independent of the artwork.
+- Practice heading labels omit duration suffixes. Preserve published anchor IDs explicitly when changing headings; keep schedule timings and timing instructions in the body.
+- The homepage hero has a start button and combined sample download. Keep hero provenance outside the public repository and hero metadata separate from the forty practice illustrations.
 
 ## Boundaries
 

@@ -31,6 +31,8 @@ npm run docs:preview
 
 หลังแก้ไฟล์ฝึก ให้สร้าง ZIP ใหม่แล้วตรวจ build
 
+ZIP รวม `all-practice-files.zip` เก็บไฟล์ในโฟลเดอร์ `day-1/` และ `day-2/` พร้อม `handoff-review-starter.zip` สำหรับอัปโหลด Skill โดยตรง
+
 ```sh
 npm run downloads:build
 npm run docs:build

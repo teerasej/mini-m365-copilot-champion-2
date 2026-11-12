@@ -17,7 +17,7 @@ next: {"text": "Copilot in Word", "link": "/exercises/day-1/04-word.html"}
 
 ## Scenario 1 — พร้อมเริ่มงานด้วยไฟล์ตัวอย่าง
 
-### Practice 1 — Prepare account and files · 15 นาที
+### Practice 1 — Prepare account and files {#practice-1--prepare-account-and-files--15-นาที}
 
 <PracticeIllustration id="d1-e03-p01" eager />
 
@@ -41,7 +41,7 @@ next: {"text": "Copilot in Word", "link": "/exercises/day-1/04-word.html"}
 
 ## Scenario 2 — ปรับ prompt ให้งานและรูปแบบชัดเจน
 
-### Practice 2 — Compare a first prompt with examples · 20 นาที
+### Practice 2 — Compare a first prompt with examples {#practice-2--compare-a-first-prompt-with-examples--20-นาที}
 
 <PracticeIllustration id="d1-e03-p02" />
 
@@ -72,7 +72,7 @@ next: {"text": "Copilot in Word", "link": "/exercises/day-1/04-word.html"}
 
 มีคำตอบสองชุดและข้อสังเกตว่าตัวอย่างใน prompt ส่งผลต่อคำตอบอย่างน้อยหนึ่งจุด
 
-### Practice 3 — Refine and verify a result · 25 นาที
+### Practice 3 — Refine and verify a result {#practice-3--refine-and-verify-a-result--25-นาที}
 
 <PracticeIllustration id="d1-e03-p03" />
 

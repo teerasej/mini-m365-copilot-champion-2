@@ -17,7 +17,7 @@ next: {"text": "Analyst", "link": "/exercises/day-2/03-analyst.html"}
 
 ## Scenario 1 — ค้นคว้าทางเลือกสำหรับ Branch Operations
 
-### Practice 1 — ค้นหา Researcher ใน Agent Store · 5 นาที
+### Practice 1 — ค้นหา Researcher ใน Agent Store {#practice-1--ค้นหา-researcher-ใน-agent-store--5-นาที}
 
 <PracticeIllustration id="d2-e02-p01" eager />
 
@@ -33,7 +33,7 @@ next: {"text": "Analyst", "link": "/exercises/day-2/03-analyst.html"}
 
 คุณเปิดบทสนทนาของ Researcher ได้ และแยกออกจาก Copilot Chat ทั่วไปได้
 
-### Practice 2 — สร้าง Decision Memo จากหลาย source · 25 นาที
+### Practice 2 — สร้าง Decision Memo จากหลาย source {#practice-2--สร้าง-decision-memo-จากหลาย-source--25-นาที}
 
 <PracticeIllustration id="d2-e02-p02" />
 
@@ -62,7 +62,7 @@ next: {"text": "Analyst", "link": "/exercises/day-2/03-analyst.html"}
 
 รายงานมีอย่างน้อยสามทางเลือกพร้อมข้อดี ข้อจำกัด ความเสี่ยง และ KPI โดยระบุแหล่งข้อมูลที่ใช้ [Microsoft Researcher guidance](https://support.microsoft.com/en-gb/microsoft-365-copilot/get-started-with-researcher-in-microsoft-365-copilot?nochrome=true)
 
-### Practice 3 — ตรวจ citations ก่อนเสนอ pilot · 10 นาที
+### Practice 3 — ตรวจ citations ก่อนเสนอ pilot {#practice-3--ตรวจ-citations-ก่อนเสนอ-pilot--10-นาที}
 
 <PracticeIllustration id="d2-e02-p03" />
 

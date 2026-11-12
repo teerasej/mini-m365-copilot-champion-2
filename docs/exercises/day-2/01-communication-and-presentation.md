@@ -19,7 +19,7 @@ next: {"text": "Researcher", "link": "/exercises/day-2/02-researcher.html"}
 
 ## Scenario 1 — สื่อสารงาน Branch Operations
 
-### Practice 1 — สรุป email thread · 10 นาที
+### Practice 1 — สรุป email thread {#practice-1--สรุป-email-thread--10-นาที}
 
 <PracticeIllustration id="d2-e01-p01" eager />
 
@@ -36,7 +36,7 @@ next: {"text": "Researcher", "link": "/exercises/day-2/02-researcher.html"}
 
 สรุปตรงกับข้อความต้นทาง และคุณชี้อีเมลที่รองรับประเด็นสำคัญได้ [Microsoft Outlook summary guidance](https://support.microsoft.com/en-us/outlook/copilot-pages/summarize-an-email-thread-with-copilot-in-outlook)
 
-### Practice 2 — ร่างข้อความตอบกลับใน Outlook · 15 นาที
+### Practice 2 — ร่างข้อความตอบกลับใน Outlook {#practice-2--ร่างข้อความตอบกลับใน-outlook--15-นาที}
 
 <PracticeIllustration id="d2-e01-p02" />
 
@@ -66,7 +66,7 @@ next: {"text": "Researcher", "link": "/exercises/day-2/02-researcher.html"}
 
 ร่างมีงานถัดไปที่อ้างอิงอีเมลได้ และแยกรายการที่ยังต้องถามให้ชัดเจน [Microsoft Outlook drafting guidance](https://support.microsoft.com/en-us/outlook/frequently-asked-questions-about-copilot-in-outlook)
 
-### Practice 3 — สรุป meeting เป็น Action items · 25 นาที
+### Practice 3 — สรุป meeting เป็น Action items {#practice-3--สรุป-meeting-เป็น-action-items--25-นาที}
 
 <PracticeIllustration id="d2-e01-p03" />
 
@@ -96,7 +96,7 @@ next: {"text": "Researcher", "link": "/exercises/day-2/02-researcher.html"}
 
 ## Scenario 2 — สร้าง Presentation จากเอกสารอ้างอิง
 
-### Practice 4 — สร้างและตรวจ Presentation · 30 นาที
+### Practice 4 — สร้างและตรวจ Presentation {#practice-4--สร้างและตรวจ-presentation--30-นาที}
 
 <PracticeIllustration id="d2-e01-p04" />
 

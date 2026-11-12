@@ -7,6 +7,7 @@ next: false
 
 แตก ZIP ก่อนเริ่มแบบฝึกหัด แล้วเลือกไฟล์ตามที่แต่ละหน้าระบุ
 
+- <DownloadLink href="/downloads/all-practice-files.zip">ไฟล์ตัวอย่างทั้งหมด</DownloadLink> รวมโฟลเดอร์ Day 1, Day 2 และ ZIP สำหรับอัปโหลด Skill starter
 - <DownloadLink href="/downloads/day-1-practice-files.zip">Day 1 practice files</DownloadLink>
 - <DownloadLink href="/downloads/day-2-practice-files.zip">Day 2 practice files</DownloadLink>
 - <DownloadLink href="/downloads/handoff-review-starter.zip">Handoff Review starter</DownloadLink> มี `SKILL.md` ที่ระดับบนสุด ให้เขียนขั้นตอนแทนข้อความในวงเล็บก่อนอัปโหลดไปยัง Agent

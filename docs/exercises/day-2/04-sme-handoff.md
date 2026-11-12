@@ -17,7 +17,7 @@ next: {"text": "Handoff Review Skill", "link": "/exercises/day-2/05-handoff-revi
 
 ## Scenario 1 — เตรียมแฟ้มก่อนส่งตรวจ
 
-### Practice 1 — Map the handoff · 15 นาที
+### Practice 1 — Map the handoff {#practice-1--map-the-handoff--15-นาที}
 
 <PracticeIllustration id="d2-e04-p01" eager />
 
@@ -32,7 +32,7 @@ next: {"text": "Handoff Review Skill", "link": "/exercises/day-2/05-handoff-revi
 
 **Checkpoint:** ชี้ได้ว่าใครเป็นเจ้าของงานเมื่อเอกสารครบและเมื่อยังมีรายการค้าง
 
-### Practice 2 — Configure the agent and its Knowledge · 35 นาที
+### Practice 2 — Configure the agent and its Knowledge {#practice-2--configure-the-agent-and-its-knowledge--35-นาที}
 
 <PracticeIllustration id="d2-e04-p02" />
 
@@ -71,7 +71,7 @@ next: {"text": "Handoff Review Skill", "link": "/exercises/day-2/05-handoff-revi
 
 **Checkpoint:** Agent ตอบได้ว่า D03 คือ Cash flow summary โดยอ้าง checklist และ item ID ที่ถูกต้อง [Microsoft Agent Builder Knowledge](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/agent-builder-add-knowledge)
 
-### Practice 3 — Record file evidence in Excel · 25 นาที
+### Practice 3 — Record file evidence in Excel {#practice-3--record-file-evidence-in-excel--25-นาที}
 
 <PracticeIllustration id="d2-e04-p03" />
 
@@ -92,7 +92,7 @@ next: {"text": "Handoff Review Skill", "link": "/exercises/day-2/05-handoff-revi
 
 **Checkpoint:** `SME-102` มีสถานะและแหล่งอ้างอิงครบสี่รายการ พร้อมคำอธิบายของข้อมูลที่ต้องติดตาม
 
-### Practice 4 — Save a baseline handoff note · 15 นาที
+### Practice 4 — Save a baseline handoff note {#practice-4--save-a-baseline-handoff-note--15-นาที}
 
 <PracticeIllustration id="d2-e04-p04" />
 

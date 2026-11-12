@@ -16,7 +16,7 @@ next: {"text": "AS-IS / TO-BE", "link": "/exercises/day-1/02-as-is-to-be.html"}
 
 ## Scenario 1 — เห็นงานก่อนเลือกเครื่องมือ
 
-### Practice 1 — Explore AI and agents · 20 นาที
+### Practice 1 — Explore AI and agents {#practice-1--explore-ai-and-agents--20-นาที}
 
 <PracticeIllustration id="d1-e01-p01" eager />
 
@@ -33,7 +33,7 @@ next: {"text": "AS-IS / TO-BE", "link": "/exercises/day-1/02-as-is-to-be.html"}
 
 กลุ่มอธิบายตัวอย่างได้ด้วยผู้ใช้ งานที่ทำ และจุดตรวจของมนุษย์อย่างละหนึ่งข้อ
 
-### Practice 2 — Map daily work · 35 นาที
+### Practice 2 — Map daily work {#practice-2--map-daily-work--35-นาที}
 
 <PracticeIllustration id="d1-e01-p02" />
 
@@ -60,7 +60,7 @@ next: {"text": "AS-IS / TO-BE", "link": "/exercises/day-1/02-as-is-to-be.html"}
 
 มี Work Friction Map ที่ชี้สาม pain points พร้อมตัวอย่างผลกระทบ
 
-### Practice 3 — Prioritize one opportunity · 35 นาที
+### Practice 3 — Prioritize one opportunity {#practice-3--prioritize-one-opportunity--35-นาที}
 
 <PracticeIllustration id="d1-e01-p03" />
 
