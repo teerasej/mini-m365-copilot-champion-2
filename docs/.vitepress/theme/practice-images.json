@@ -575,22 +575,6 @@
     "height": 724,
     "alt": "An employee saves a baseline handoff note inside a plain folder, with the source case notes still open for comparison"
   },
-  "d2-e05-opt": {
-    "src": "/images/practices/d2-e05-opt-1536.webp",
-    "srcset": [
-      {
-        "src": "/images/practices/d2-e05-opt-768.webp",
-        "width": 768
-      },
-      {
-        "src": "/images/practices/d2-e05-opt-1536.webp",
-        "width": 1536
-      }
-    ],
-    "width": 2172,
-    "height": 724,
-    "alt": "An employee replaces an older case note in a small source folder with a revised note, then prepares a fresh review on a clean paper card"
-  },
   "d2-e05-p01": {
     "src": "/images/practices/d2-e05-p01-1536.webp",
     "srcset": [
@@ -638,5 +622,85 @@
     "width": 2172,
     "height": 724,
     "alt": "Two colleagues peer-review a handoff brief against the same source folder and evidence grid"
+  },
+  "d2-group-opt": {
+    "src": "/images/practices/d2-group-opt-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-group-opt-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-group-opt-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "กลุ่มรวบรวมขั้นตอนซ้ำให้เป็นคู่มือที่ผู้ช่วยนำกลับมาใช้ได้"
+  },
+  "d2-group-p01": {
+    "src": "/images/practices/d2-group-p01-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-group-p01-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-group-p01-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "พนักงานกลุ่มเล็กเลือกปัญหางานภายในและผู้ใช้เป้าหมายจากการ์ด workflow"
+  },
+  "d2-group-p02": {
+    "src": "/images/practices/d2-group-p02-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-group-p02-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-group-p02-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "เพื่อนร่วมกลุ่มสร้างผู้ช่วยบน laptop โดยใช้คำแนะนำและแฟ้มเอกสารสมมติ"
+  },
+  "d2-group-p03": {
+    "src": "/images/practices/d2-group-p03-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-group-p03-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-group-p03-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "กลุ่มตรวจคำตอบสามลักษณะและจดสิ่งที่ต้องปรับใน Agent"
+  },
+  "d2-group-p04": {
+    "src": "/images/practices/d2-group-p04-1536.webp",
+    "srcset": [
+      {
+        "src": "/images/practices/d2-group-p04-768.webp",
+        "width": 768
+      },
+      {
+        "src": "/images/practices/d2-group-p04-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "alt": "ตัวแทนกลุ่มนำเสนอ Agent และหลักฐานการทดสอบให้เพื่อนร่วมชั้น"
   }
 }

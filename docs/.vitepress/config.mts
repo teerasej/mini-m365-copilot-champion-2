@@ -4,7 +4,7 @@ import { exerciseMenu, sidebar, slugify } from './navigation'
 export default defineConfig({
   lang: 'th-TH',
   title: 'Mini M365 Copilot Champion',
-  description: 'แบบฝึกหัดสองวันสำหรับพนักงาน Krungsri ฝึก Microsoft 365 Copilot และสร้างผู้ช่วยเตรียมแฟ้ม SME ด้วยข้อมูลสมมติ',
+  description: 'แบบฝึกหัดสองวันสำหรับพนักงาน Krungsri ฝึก Microsoft 365 Copilot สร้างผู้ช่วยเตรียมแฟ้ม SME และทำงานกลุ่มสร้าง Agent ด้วยข้อมูลสมมติ',
   base: '/mini-m365-copilot-champion-2/',
   cleanUrls: false,
   srcExclude: ['public/**'],

@@ -221,7 +221,7 @@
   {
     "day": 2,
     "id": "d2-e04",
-    "text": "SME Handoff Assistant",
+    "text": "SME Handoff Agent and Skill",
     "route": "/exercises/day-2/04-sme-handoff",
     "practices": [
       {
@@ -245,19 +245,6 @@
         "anchor": "practice-4--save-a-baseline-handoff-note--15-นาที"
       },
       {
-        "id": "d2-e04-opt",
-        "text": "กิจกรรมทางเลือก",
-        "anchor": "optional-extension"
-      }
-    ]
-  },
-  {
-    "day": 2,
-    "id": "d2-e05",
-    "text": "Handoff Review Skill",
-    "route": "/exercises/day-2/05-handoff-review-skill",
-    "practices": [
-      {
         "id": "d2-e05-p01",
         "text": "Author the Handoff Review Skill",
         "anchor": "practice-1--author-the-handoff-review-skill--35-นาที"
@@ -273,7 +260,40 @@
         "anchor": "practice-3--peer-review-the-draft-brief--10-นาที"
       },
       {
-        "id": "d2-e05-opt",
+        "id": "d2-e04-opt",
+        "text": "กิจกรรมทางเลือก",
+        "anchor": "optional-extension"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "id": "d2-group",
+    "text": "Group Agent Challenge",
+    "route": "/exercises/day-2/05-group-agent-project",
+    "practices": [
+      {
+        "id": "d2-group-p01",
+        "text": "Define the group project",
+        "anchor": "practice-1--define-the-group-project"
+      },
+      {
+        "id": "d2-group-p02",
+        "text": "Build the group agent",
+        "anchor": "practice-2--build-the-group-agent"
+      },
+      {
+        "id": "d2-group-p03",
+        "text": "Test and refine the group agent",
+        "anchor": "practice-3--test-and-refine-the-group-agent"
+      },
+      {
+        "id": "d2-group-p04",
+        "text": "Present and save the group project",
+        "anchor": "practice-4--present-and-save-the-group-project"
+      },
+      {
+        "id": "d2-group-opt",
         "text": "กิจกรรมทางเลือก",
         "anchor": "optional-extension"
       }

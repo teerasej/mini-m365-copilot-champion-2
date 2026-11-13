@@ -1,6 +1,6 @@
 # Mini Microsoft 365 Copilot Champion — Two-Day Learner Site
 
-หลักสูตรสองวันสำหรับพนักงาน Krungsri เวลา 09:00–16:00 วันละ 330 นาที รวม 660 นาที ฝึก Microsoft 365 Copilot และสร้าง SME Loan File Handoff Assistant ด้วยข้อมูลสมมติ
+หลักสูตรสองวันสำหรับพนักงาน Krungsri เวลา 09:00–16:00 วันละ 330 นาที รวม 660 นาที เริ่มด้วย Responsible AI ฝึก Microsoft 365 Copilot สร้าง SME Handoff Agent พร้อม Skill แล้วทำงานกลุ่ม 5 กลุ่มสร้างและนำเสนอ Agent สำหรับงานภายในด้วยข้อมูลสมมติ
 
 [เปิดเว็บไซต์ผู้เรียน](https://teerasej.github.io/mini-m365-copilot-champion-2/) · [อ่านเนื้อหาต้นฉบับ](docs/index.md)
 
@@ -26,7 +26,9 @@ npm run docs:preview
 - `docs/exercises/day-1/` และ `docs/exercises/day-2/` เป็นเนื้อหาผู้เรียนที่ใช้เผยแพร่
 - `docs/resources/` เป็นหน้าดาวน์โหลดและรายการไฟล์
 - `docs/public/files/` เก็บไฟล์ฝึก ส่วน `docs/public/images/` เก็บ screenshots และภาพประกอบที่ผ่านการตรวจแล้ว
-- `docs/.vitepress/course-navigation.json` กำหนดลำดับแบบฝึกหัดและ practice anchors สำหรับเมนูและ sidebar
+- `docs/.vitepress/course-navigation.json` กำหนดลำดับ 10 แบบฝึกหัดและ practice anchors สำหรับเมนูและ sidebar
+- Section 3 รวม SME Agent และ Skill ส่วน Section 4 เป็นแนวทางงานกลุ่ม ไม่มีข้อกำหนดเวลาย่อยหรือต่อกลุ่ม
+- URL Skill เดิมเป็นหน้าชี้ทางไปยังหัวข้อที่รวมแล้ว และไม่อยู่ในเส้นทางเรียนหรือ search
 - Footer และองค์ประกอบเว็บไซต์อยู่ใน `docs/.vitepress/theme/`
 
 หลังแก้ไฟล์ฝึก ให้สร้าง ZIP ใหม่แล้วตรวจ build

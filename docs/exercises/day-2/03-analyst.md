@@ -1,6 +1,6 @@
 ---
 prev: {"text": "Researcher", "link": "/exercises/day-2/02-researcher.html"}
-next: {"text": "SME Handoff Assistant", "link": "/exercises/day-2/04-sme-handoff.html"}
+next: {"text": "SME Handoff Agent and Skill", "link": "/exercises/day-2/04-sme-handoff.html"}
 ---
 
 # Section 2 — Researcher and Analyst · Analyst
